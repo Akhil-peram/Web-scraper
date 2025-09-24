@@ -1,3 +1,4 @@
+import scraper
 def main():
     print("Hello from web-scraper!")
 
